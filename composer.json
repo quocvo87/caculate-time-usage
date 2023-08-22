@@ -1,0 +1,15 @@
+{
+    "name": "quocvo87/caculate-time-usage",
+    "description": "This package will caculate time usage",
+    "type": "library",
+    "keywords": [ "library", "mvc" ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Quoc Anh",
+            "email": "quocvo87@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
